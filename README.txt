@@ -17,4 +17,4 @@ A simple Expense Tracker application built using Python's Tkinter for the GUI an
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/AnjuSaji15/expense-tracker.git
